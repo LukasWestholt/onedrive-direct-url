@@ -5,6 +5,10 @@ Needs a sharing url like these
 - https://1drv.ms/u/s!AkijuZglD51udjvlclZWSNf_2wo
 - https://1drv.ms/f/s!ASomsado4189sadmlas012sa
 
+# How to start
+
+Run `onedrive-direct-url.bat`. Please fill sharingUrl. See the magic.🪄
+
 ## References
 
 https://stackoverflow.com/questions/37951114/direct-download-link-to-onedrive-file#comment71362889_37951378
