@@ -23,4 +23,5 @@ foreach ($children in $json."children") {
 }
 if ($DownloadSwitch.IsPresent) {
     Compress-Archive -Path tempfiles -DestinationPath "$($name).zip"
+    Remove-Item -Recurse tempfiles/ | Out-Null
 }

@@ -19,3 +19,4 @@ https://stackoverflow.com/a/3403333
 
 https://4sysops.com/archives/powershell-invoke-webrequest-parse-and-scrape-a-web-page/
 
+https://stackoverflow.com/questions/1153126/how-to-create-a-zip-archive-with-powershell

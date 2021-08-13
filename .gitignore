@@ -1,2 +1,4 @@
 /tempfiles/
 *.zip
+**.secret
+
