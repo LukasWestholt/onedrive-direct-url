@@ -7,7 +7,7 @@ Needs a sharing url like these
 
 # How to start
 
-Run `onedrive-direct-url.bat`. Please fill sharingUrl. See the magic 🪄.
+Run `onedrive-direct-url.bat`. Please fill sharingUrl. See the magic ✨.
 
 ## References
 
